@@ -1,16 +1,6 @@
-# Air Quality Analyzer (Version 0.0.1)
+# Pharmacy Management System
 
 The Pharmacy Management System centralizes key pharmacy operations, including customers, employees, medicines, orders, and bills. It records customer details, manages employee tasks, and streamlines workflow, enhancing efficiency, customer satisfaction, and operational effectiveness.
-
-## Features
-
-- Upload and save air quality reports in CSV format (to be implemented)
-- Clean malformed data before saving to the database
-- View all records in the database
-- Generate a monthly report including:
-  - Average AQI
-  - Maximum and Minimum AQI
-  - List of daily measured AQI for a specific month
 
 ## Technology Stack
 
